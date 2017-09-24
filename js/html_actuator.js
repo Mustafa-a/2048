@@ -63,7 +63,10 @@ HTMLActuator.prototype.addTile = function (tile) {
     512 :  'I',
     1024 : 'J',
     2048 : 'K',
-    4096 : 'L'
+    4096 : 'L',
+    8192 : 'M',
+    16384 : 'N'
+    
   }
   var self = this;
 
